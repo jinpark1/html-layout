@@ -1,0 +1,56 @@
+body {
+
+}
+
+.row {
+    height: 150px;
+}
+
+.row1 {
+    height: 150px;
+    background: grey;
+    box-sizing: border-box;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+.row1-box{
+    height: 100px;
+    width: 100px;
+    background: blue;
+
+}
+
+.row2 {
+    height: 300px;
+    height: 10em;
+    position: relative
+}
+
+.row2-text{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+}
+
+
+.row-3 {
+    background: blue;   
+}
+
+.row-4 {
+    background: teal;
+}
+
+.row-5 {
+    background: green;
+}
+
+.row-6 {
+    background: yellow;
+}
+
